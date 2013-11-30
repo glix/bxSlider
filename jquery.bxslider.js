@@ -27,11 +27,11 @@
 		captions: false,
 		ticker: false,
 		tickerHover: false,
-		adaptiveHeight: false,
+		adaptiveHeight: true,
 		adaptiveHeightSpeed: 500,
 		video: false,
 		useCSS: true,
-		preloadImages: 'visible',
+		preloadImages: 'invisible',
 		responsive: true,
 
 		// TOUCH
